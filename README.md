@@ -5,3 +5,6 @@
 平台
 ----------
 Windows
+界面
+--------
+![pic](https://github.com/wayne-creater/Qt_SerialPort/blob/master/pic.png)
